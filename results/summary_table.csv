@@ -1,0 +1,7 @@
+Algorithm,Avg Reward,Avg Score,Avg Survival,Win Rate
+Q-Learning,1540,1875,194,100%
+SARSA,1469,1815,188,98%
+Monte Carlo,-628,723,363,0%
+DQN,-103,859,343,2%
+Double DQN,-230,750,327,0%
+REINFORCE,-910,312,198,0%
