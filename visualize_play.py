@@ -18,6 +18,8 @@ randomly appearing/disappearing between runs.
 
 Controls: close the window or press ESC to quit early.
 """
+
+
 import argparse
 import os
 import sys
